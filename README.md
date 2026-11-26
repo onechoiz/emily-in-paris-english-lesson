@@ -1,6 +1,6 @@
-# Emily in Paris English Lesson
+# Emily’s Opportunity — English Lesson
 
-Standalone interactive English lesson based on the generated Paris lesson, with its activities, styling, and in-page interactions kept intact.
+Interactive lesson copied from `emily_in_paris_opportunity_lesson.html` in Downloads. `index.html` is the GitHub Pages entry point and contains the same lesson.
 
 ## Preview locally
 
